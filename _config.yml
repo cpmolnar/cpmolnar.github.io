@@ -310,10 +310,8 @@ compress_html:
   ignore:
     envs: development
 
+minimal_mistakes_skin: "dark"
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-
-theme: jekyll-theme-cayman
-
-minimal_mistakes_skin: "dark"
