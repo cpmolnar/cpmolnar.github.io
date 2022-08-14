@@ -315,3 +315,5 @@ plugins:
 - jekyll-remote-theme
 
 theme: jekyll-theme-cayman
+
+minimal_mistakes_skin: "dark"
